@@ -1,0 +1,5 @@
+Name,Mass,X Position,Y Position,X Velocity,Y Velocity
+Mars,6.42E+23,0.00E+00,0.00E+00,0.00E+00,0.00E+00
+Phobos,1.06E+16,9.38E+06,0.00E+00,0.00E+00,0.00E+00
+Deimos,1.80E+15,2.35E+07,0.00E+00,0.00E+00,0.00E+00
+Extra,1.06E+16,6.38E+06,0.00E+00,0.00E+00,0.00E+00
