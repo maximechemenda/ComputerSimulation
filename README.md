@@ -5,7 +5,7 @@ Checkpoint 1: Python class representing a polynomial and with which we can perfo
 Checkpoint 2: Application to simulate the radioactive decay of unstable nuclei.
 Checkpoint 3: Python program that will give a visual representation of the Mandelbrot set.
 Checkpoint 5 :Simulation of the path of the moon Phobos orbiting the planet Mars using numerical integration. 
-FINAL PROJECT: simulation of the path of the planets of the Solar System orbiting the Sun using a different numerical integration than the one in Checkpoint 5
+FINAL PROJECT: simulation of the path of the planets of the Solar System orbiting the Sun using a different numerical integration than the one in Checkpoint 5.
 
 
 
